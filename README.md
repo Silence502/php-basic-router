@@ -3,8 +3,8 @@ What this?
 For a side project with certain challenges, I looked for a way to create a router homemade without any library or framework. After a long investigation, I mixed different proposals and created a basic router in PHP native including the `.htaccess` file obviously.
 ## How it works?
 ### Environment
-PHP 7.4+
-WAMP 3.2.6
+- PHP 7.4+
+- WAMP 3.2.6
 ### In first time
 We need to create and configure the `.htaccess` file to create the conditions and rules for the routing behavior based on a URL rewrite. About these rules, I didn't invent anything. You can find examples anywhere and adapt them to your needs with some regex lines.
 ### In second time
